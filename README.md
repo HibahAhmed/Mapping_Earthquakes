@@ -2,7 +2,7 @@
 
 # Overview
 
-## This project's focused on gathering GeoJSON data using API. The data of earthquakes in places all over the map are present based on the locations of the tectonic plates as well as events magnitude.
+This project's focused on gathering GeoJSON data using API. The data of earthquakes in places all over the map are present based on the locations of the tectonic plates as well as events magnitude.
 
 ## Result
 
